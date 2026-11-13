@@ -91,7 +91,7 @@ The application has been tested using fictional client records to demonstrate re
 
 ## Limitations
 
-AfyaTrack is an educational prototype developed for a Python Module 1 project. It uses fictional demonstration data and is not intended for real patient records or clinical decision-making.
+AfyaTrack is an educational prototype. It uses fictional demonstration data and is not intended for real patient records or clinical decision-making.
 
 ## Future Improvements
 
